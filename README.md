@@ -125,6 +125,5 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy, contact:
 
-- Name: [Your Name or Company Name]
-- Email: [Your Support Email]
-- Website: [Your Website, if any]
+- Name: Shashank Tiwari
+- Email: tshank30@gmail.com
